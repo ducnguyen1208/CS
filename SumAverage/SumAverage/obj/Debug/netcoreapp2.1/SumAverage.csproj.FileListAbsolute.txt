@@ -1,0 +1,11 @@
+C:\Programming\C-Sharp\SumAverage\SumAverage\bin\Debug\netcoreapp2.1\SumAverage.deps.json
+C:\Programming\C-Sharp\SumAverage\SumAverage\bin\Debug\netcoreapp2.1\SumAverage.runtimeconfig.json
+C:\Programming\C-Sharp\SumAverage\SumAverage\bin\Debug\netcoreapp2.1\SumAverage.runtimeconfig.dev.json
+C:\Programming\C-Sharp\SumAverage\SumAverage\bin\Debug\netcoreapp2.1\SumAverage.dll
+C:\Programming\C-Sharp\SumAverage\SumAverage\bin\Debug\netcoreapp2.1\SumAverage.pdb
+C:\Programming\C-Sharp\SumAverage\SumAverage\obj\Debug\netcoreapp2.1\SumAverage.csprojAssemblyReference.cache
+C:\Programming\C-Sharp\SumAverage\SumAverage\obj\Debug\netcoreapp2.1\SumAverage.csproj.CoreCompileInputs.cache
+C:\Programming\C-Sharp\SumAverage\SumAverage\obj\Debug\netcoreapp2.1\SumAverage.AssemblyInfoInputs.cache
+C:\Programming\C-Sharp\SumAverage\SumAverage\obj\Debug\netcoreapp2.1\SumAverage.AssemblyInfo.cs
+C:\Programming\C-Sharp\SumAverage\SumAverage\obj\Debug\netcoreapp2.1\SumAverage.dll
+C:\Programming\C-Sharp\SumAverage\SumAverage\obj\Debug\netcoreapp2.1\SumAverage.pdb
