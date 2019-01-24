@@ -1,0 +1,11 @@
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\obj\Debug\netcoreapp2.1\Largestofthree.csprojAssemblyReference.cache
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\obj\Debug\netcoreapp2.1\Largestofthree.csproj.CoreCompileInputs.cache
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\obj\Debug\netcoreapp2.1\Largestofthree.AssemblyInfoInputs.cache
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\obj\Debug\netcoreapp2.1\Largestofthree.AssemblyInfo.cs
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\bin\Debug\netcoreapp2.1\Largestofthree.deps.json
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\bin\Debug\netcoreapp2.1\Largestofthree.runtimeconfig.json
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\bin\Debug\netcoreapp2.1\Largestofthree.runtimeconfig.dev.json
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\bin\Debug\netcoreapp2.1\Largestofthree.dll
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\bin\Debug\netcoreapp2.1\Largestofthree.pdb
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\obj\Debug\netcoreapp2.1\Largestofthree.dll
+C:\Programming\C-Sharp\Largestofthree\Largestofthree\obj\Debug\netcoreapp2.1\Largestofthree.pdb

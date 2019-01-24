@@ -1,0 +1,3 @@
+C:\Programming\C-Sharp\Break_Continue\Break_Continue\obj\Debug\netcoreapp2.1\Break_Continue.csproj.CoreCompileInputs.cache
+C:\Programming\C-Sharp\Break_Continue\Break_Continue\obj\Debug\netcoreapp2.1\Break_Continue.AssemblyInfoInputs.cache
+C:\Programming\C-Sharp\Break_Continue\Break_Continue\obj\Debug\netcoreapp2.1\Break_Continue.AssemblyInfo.cs

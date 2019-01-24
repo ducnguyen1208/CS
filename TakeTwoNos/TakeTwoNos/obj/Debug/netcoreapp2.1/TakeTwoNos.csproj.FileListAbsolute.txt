@@ -1,0 +1,10 @@
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\obj\Debug\netcoreapp2.1\TakeTwoNos.csproj.CoreCompileInputs.cache
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\obj\Debug\netcoreapp2.1\TakeTwoNos.AssemblyInfoInputs.cache
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\obj\Debug\netcoreapp2.1\TakeTwoNos.AssemblyInfo.cs
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\bin\Debug\netcoreapp2.1\TakeTwoNos.deps.json
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\bin\Debug\netcoreapp2.1\TakeTwoNos.runtimeconfig.json
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\bin\Debug\netcoreapp2.1\TakeTwoNos.runtimeconfig.dev.json
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\bin\Debug\netcoreapp2.1\TakeTwoNos.dll
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\bin\Debug\netcoreapp2.1\TakeTwoNos.pdb
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\obj\Debug\netcoreapp2.1\TakeTwoNos.dll
+C:\Programming\C-Sharp\TakeTwoNos\TakeTwoNos\obj\Debug\netcoreapp2.1\TakeTwoNos.pdb

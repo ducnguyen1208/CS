@@ -1,0 +1,11 @@
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\obj\Debug\netcoreapp2.1\Even_OddCount.csprojAssemblyReference.cache
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\obj\Debug\netcoreapp2.1\Even_OddCount.csproj.CoreCompileInputs.cache
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\obj\Debug\netcoreapp2.1\Even_OddCount.AssemblyInfoInputs.cache
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\obj\Debug\netcoreapp2.1\Even_OddCount.AssemblyInfo.cs
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\bin\Debug\netcoreapp2.1\Even_OddCount.deps.json
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\bin\Debug\netcoreapp2.1\Even_OddCount.runtimeconfig.json
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\bin\Debug\netcoreapp2.1\Even_OddCount.runtimeconfig.dev.json
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\bin\Debug\netcoreapp2.1\Even_OddCount.dll
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\bin\Debug\netcoreapp2.1\Even_OddCount.pdb
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\obj\Debug\netcoreapp2.1\Even_OddCount.dll
+C:\Programming\C-Sharp\Even_OddCount\Even_OddCount\obj\Debug\netcoreapp2.1\Even_OddCount.pdb

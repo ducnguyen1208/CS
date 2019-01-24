@@ -1,0 +1,11 @@
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\bin\Debug\netcoreapp2.1\VowelDemo.deps.json
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\bin\Debug\netcoreapp2.1\VowelDemo.runtimeconfig.json
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\bin\Debug\netcoreapp2.1\VowelDemo.runtimeconfig.dev.json
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\bin\Debug\netcoreapp2.1\VowelDemo.dll
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\bin\Debug\netcoreapp2.1\VowelDemo.pdb
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\obj\Debug\netcoreapp2.1\VowelDemo.csprojAssemblyReference.cache
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\obj\Debug\netcoreapp2.1\VowelDemo.csproj.CoreCompileInputs.cache
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\obj\Debug\netcoreapp2.1\VowelDemo.AssemblyInfoInputs.cache
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\obj\Debug\netcoreapp2.1\VowelDemo.AssemblyInfo.cs
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\obj\Debug\netcoreapp2.1\VowelDemo.dll
+C:\Programming\C-Sharp\VowelDemo\VowelDemo\obj\Debug\netcoreapp2.1\VowelDemo.pdb
